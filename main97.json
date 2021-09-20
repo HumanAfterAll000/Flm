@@ -1,0 +1,118 @@
+{
+  "movies": [
+     {
+      "id": "GEdgYkyO53Y",
+      "name": "ADAK - HD Türk Filmi (Tarık Akan & Necla Nazır)",
+      "thumb": "https://i.ytimg.com/vi/GEdgYkyO53Y/hqdefault.jpg",
+      "dur": "1:16:21"
+    },
+    {
+      "id": "BqLzsazmvmI",
+      "name": "Ben Topraktan Bir Canım - HD Türk Filmi (Orhan Gencebay)",
+      "thumb": "https://i.ytimg.com/vi/BqLzsazmvmI/hqdefault.jpg",
+      "dur": "1:31:00"
+    },
+    {
+      "id": "412RSfoZyjw",
+      "name": "Soysuzlar - HD Türk Filmi",
+      "thumb": "https://i.ytimg.com/vi/412RSfoZyjw/hqdefault.jpg",
+      "dur": "48:14"
+    },
+    {
+      "id": "3pCszUsrN_A",
+      "name": "Herşeyim Sensin - Türk Filmi",
+      "thumb": "https://i.ytimg.com/vi/3pCszUsrN_A/hqdefault.jpg",
+      "dur": "1:23:09"
+    },
+    {
+      "id": "lcPT6XCEFWE",
+      "name": "Vazgeç Gönlüm - HD Türk Filmi",
+      "thumb": "https://i.ytimg.com/vi/lcPT6XCEFWE/hqdefault.jpg",
+      "dur": "1:34:43"
+    },
+    {
+      "id": "Y2uTg3SKt6w",
+      "name": "Kuyucaklı Yusuf - HD Türk Filmi",
+      "thumb": "https://i.ytimg.com/vi/Y2uTg3SKt6w/hqdefault.jpg",
+      "dur": "1:37:22"
+    },
+    {
+      "id": "D0t-ojVFWzA",
+      "name": "Seni Seviyorum - Türk Filmi",
+      "thumb": "https://i.ytimg.com/vi/D0t-ojVFWzA/hqdefault.jpg",
+      "dur": "1:36:23"
+    },
+    {
+      "id": "_gGT4twybA4",
+      "name": "İşte Hayat - Türk Filmi",
+      "thumb": "https://i.ytimg.com/vi/_gGT4twybA4/hqdefault.jpg",
+      "dur": "1:22:43"
+    },
+    {
+      "id": "sMiZK3QBf58",
+      "name": "Gülşah - HD Türk Filmi",
+      "thumb": "https://i.ytimg.com/vi/sMiZK3QBf58/hqdefault.jpg",
+      "dur": "1:34:07"
+    },
+    {
+      "id": "QK88TQx1RIo",
+      "name": "Bir Günlük Aşk - Türk Filmi (RESTORASYONLU)",
+      "thumb": "https://i.ytimg.com/vi/QK88TQx1RIo/hqdefault.jpg",
+      "dur": "1:14:22"
+    },
+    {
+      "id": "un9vkzPVUDI",
+      "name": "Nefret Türk Filmi | FULL HD | Hülya Avşar | Fatma Girik | Bulut Aras",
+      "thumb": "https://i.ytimg.com/vi/un9vkzPVUDI/hqdefault.jpg",
+      "dur": "1:21:36"
+    },
+    {
+      "id": "p6RtHFHXRTU",
+      "name": "Ah Gardaşım - Türk Filmi",
+      "thumb": "https://i.ytimg.com/vi/p6RtHFHXRTU/hqdefault.jpg",
+      "dur": "1:23:55"
+    },
+    {
+      "id": "F44XuKOKPNw",
+      "name": "Hanım - HD Ödüllü Türk Filmi (Yıldız Kenter)",
+      "thumb": "https://i.ytimg.com/vi/F44XuKOKPNw/hqdefault.jpg",
+      "dur": "1:42:08"
+    },
+    {
+      "id": "QeiH1i1nrFk",
+      "name": "Yıldızlarda Kayar - Türk Filmi",
+      "thumb": "https://i.ytimg.com/vi/QeiH1i1nrFk/hqdefault.jpg",
+      "dur": "1:33:08"
+    },
+    {
+      "id": "ME4NTLo17DA",
+      "name": "Benim Sinemalarım - HD Ödüllü Türk Filmi",
+      "thumb": "https://i.ytimg.com/vi/ME4NTLo17DA/hqdefault.jpg",
+      "dur": "1:32:17"
+    },
+    {
+      "id": "M24_2kDQe58",
+      "name": "Kızgın Toprak - Türk Filmi",
+      "thumb": "https://i.ytimg.com/vi/M24_2kDQe58/hqdefault.jpg",
+      "dur": "1:07:51"
+    },
+    {
+      "id": "D6Fa6MTCO0c",
+      "name": "Enayi - Türk Filmi (Kadir İnanır)",
+      "thumb": "https://i.ytimg.com/vi/D6Fa6MTCO0c/hqdefault.jpg",
+      "dur": "1:27:35"
+    },
+    {
+      "id": "A60Ljs9WXTk",
+      "name": "Herhangi Bir Kadın - Türk Filmi",
+      "thumb": "https://i.ytimg.com/vi/A60Ljs9WXTk/hqdefault.jpg",
+      "dur": "1:35:39"
+    },
+    {
+      "id": "PHTcwa6J39M",
+      "name": "Kurbağalar - HD Türk Filmi",
+      "thumb": "https://i.ytimg.com/vi/PHTcwa6J39M/hqdefault.jpg",
+      "dur": "1:30:17"
+    }
+  ]
+}

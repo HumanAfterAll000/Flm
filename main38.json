@@ -1,0 +1,124 @@
+{
+  "movies": [
+        {
+      "id": "WEMDKXweUYM",
+      "name": "KIZILDERİLİ | WESTERN FİLMİ TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/WEMDKXweUYM/hqdefault.jpg",
+      "dur": "1:45:50"
+    },
+    {
+      "id": "izYuq_-_DCI",
+      "name": "ÖZEL AJAN | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/izYuq_-_DCI/hqdefault.jpg",
+      "dur": "1:37:18"
+    },
+    {
+      "id": "aVqkLE-nhGI",
+      "name": "SYLVESTER STALLONE FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/aVqkLE-nhGI/hqdefault.jpg",
+      "dur": "1:24:29"
+    },
+    {
+      "id": "4JsB52AmiuI",
+      "name": "Yasak Krallık | Türkçe Dublaj Macera Filmi | Full İzle",
+      "thumb": "https://i.ytimg.com/vi/4JsB52AmiuI/hqdefault.jpg",
+      "dur": "1:30:47"
+    },
+    {
+      "id": "R32Kak3v2yo",
+      "name": "Limit Yok | 2011 | Bradley Cooper Türkçe Dublaj Gerilim Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/R32Kak3v2yo/hqdefault.jpg",
+      "dur": "1:37:08"
+    },
+    {
+      "id": "JUHY0U2tTh0",
+      "name": "NICOLAS CAGE FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/JUHY0U2tTh0/hqdefault.jpg",
+      "dur": "1:24:21"
+    },
+    {
+      "id": "zSzAB7wM0Y8",
+      "name": "İNTİKAM İÇİN ÖLDÜR | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/zSzAB7wM0Y8/hqdefault.jpg",
+      "dur": "1:39:04"
+    },
+    {
+      "id": "nR8ae5k2Djw",
+      "name": "ÖLDÜR | BİLİM KURGU FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/nR8ae5k2Djw/hqdefault.jpg",
+      "dur": "1:31:08"
+    },
+    {
+      "id": "v-2F62Kkxtw",
+      "name": "BÜYÜK DEPREM | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/v-2F62Kkxtw/hqdefault.jpg",
+      "dur": "1:17:12"
+    },
+    {
+      "id": "0XekwYGmxkY",
+      "name": "EFSANE DÖRT SAVAŞÇI | AKSİYON FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/0XekwYGmxkY/hqdefault.jpg",
+      "dur": "1:49:33"
+    },
+    {
+      "id": "hIz1KGjOgeI",
+      "name": "BİLİM KURGU FİLMİ TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/hIz1KGjOgeI/hqdefault.jpg",
+      "dur": "1:18:41"
+    },
+    {
+      "id": "3O7Xu8HalW8",
+      "name": "AİLEM İÇİN | AKSİYON FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/3O7Xu8HalW8/hqdefault.jpg",
+      "dur": "1:20:56"
+    },
+    {
+      "id": "fwCqZIg8k8o",
+      "name": "İÇERDE | TÜRKÇE DUBLAJ AKSİYON",
+      "thumb": "https://i.ytimg.com/vi/fwCqZIg8k8o/hqdefault.jpg",
+      "dur": "1:49:20"
+    },
+    {
+      "id": "zGKY6nRfYx4",
+      "name": "TEHLİKELİ UÇUŞ | AKSİYON FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/zGKY6nRfYx4/hqdefault.jpg",
+      "dur": "1:21:32"
+    },
+    {
+      "id": "UlU7SMxASLA",
+      "name": "EFSANE SAVAŞÇILAR ⚔️ | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/UlU7SMxASLA/hqdefault.jpg",
+      "dur": "1:47:45"
+    },
+    {
+      "id": "wP9oA51csjQ",
+      "name": "ACIMASIZ | KORKU FİLMİ TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/wP9oA51csjQ/hqdefault.jpg",
+      "dur": "1:39:00"
+    },
+    {
+      "id": "SLuAq8YaGhw",
+      "name": "KUPA ASI | MACERA FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/SLuAq8YaGhw/hqdefault.jpg",
+      "dur": "1:34:37"
+    },
+    {
+      "id": "bGyYysuSps4",
+      "name": "ÖLÜMÜNE DÖVÜŞ | TÜRKÇE DUBLAJ AKSİYON FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/bGyYysuSps4/hqdefault.jpg",
+      "dur": "1:41:33"
+    },
+    {
+      "id": "RKyi4em2Yp4",
+      "name": "HAYATTA KALAN | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/RKyi4em2Yp4/hqdefault.jpg",
+      "dur": "1:26:16"
+    },
+    {
+      "id": "YdeovUVgdBY",
+      "name": "TEK BAŞINA ORDU | TÜRKÇE DUBLAJ AKSİYON FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/YdeovUVgdBY/hqdefault.jpg",
+      "dur": "2:11:06"
+    }
+  ]
+}

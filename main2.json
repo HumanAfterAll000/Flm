@@ -1,0 +1,112 @@
+{
+  "movies": [
+    {
+      "id": "kK9nd425zwc",
+      "name": "Müziğin Gücü | Türkçe Dublaj",
+      "thumb": "https://i.ytimg.com/vi/kK9nd425zwc/hqdefault.jpg",
+      "dur": "1:22:40"
+    },
+    {
+      "id": "8p8dAJvL1qs",
+      "name": "Kanlı Hesaplaşma | Türkçe Dublaj Jackie Chan Filmi",
+      "thumb": "https://i.ytimg.com/vi/8p8dAJvL1qs/hqdefault.jpg",
+      "dur": "1:49:57"
+    },
+    {
+      "id": "YqfRxWmTPxg",
+      "name": "Eylül Şafağı | Türkçe Dublaj",
+      "thumb": "https://i.ytimg.com/vi/YqfRxWmTPxg/hqdefault.jpg",
+      "dur": "1:42:09"
+    },
+    {
+      "id": "VdK3mOuXMdo",
+      "name": "KASIRGA DEHŞETİ | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/VdK3mOuXMdo/hqdefault.jpg",
+      "dur": "1:22:06"
+    },
+    {
+      "id": "ccopHxhPiKg",
+      "name": "NEFRET SEKİZLİSİ 🔥 | TÜRKÇE DUBLAJ SAMUEL JACKSON FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/ccopHxhPiKg/hqdefault.jpg",
+      "dur": "2:36:34"
+    },
+    {
+      "id": "Nfe5MmeOkLc",
+      "name": "YUMRUĞUN EFSANESİ: CHEN ZHEN'İN DÖNÜŞÜ👊💥 | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/Nfe5MmeOkLc/hqdefault.jpg",
+      "dur": "1:41:16"
+    },
+    {
+      "id": "GHFdDqpLV1w",
+      "name": "MÜZE SOYGUNU 💰 KOMEDİ FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/GHFdDqpLV1w/hqdefault.jpg",
+      "dur": "1:24:26"
+    },
+    {
+      "id": "d50F6JRnN5I",
+      "name": "GECE YARISI🌑 | AKSİYON FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/d50F6JRnN5I/hqdefault.jpg",
+      "dur": "1:38:52"
+    },
+    {
+      "id": "UW3WHcLcJMs",
+      "name": "UÇAK KAZASI | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/UW3WHcLcJMs/hqdefault.jpg",
+      "dur": "1:22:28"
+    },
+    {
+      "id": "XVRqQo1naH4",
+      "name": "GÖLDEKİ KABUS | AKSİYON FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/XVRqQo1naH4/hqdefault.jpg",
+      "dur": "1:39:33"
+    },
+    {
+      "id": "0U1hBzs1Ttw",
+      "name": "GERİDE KALANLAR | TÜRKÇE DUBAJ AKSİYON FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/0U1hBzs1Ttw/hqdefault.jpg",
+      "dur": "1:28:06"
+    },
+    {
+      "id": "eAYLxsbQkmw",
+      "name": "SON KURŞUN | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/eAYLxsbQkmw/hqdefault.jpg",
+      "dur": "1:19:50"
+    },
+    {
+      "id": "X6i5fcuy4UI",
+      "name": "PARANIN PEŞİNDE💲 | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/X6i5fcuy4UI/hqdefault.jpg",
+      "dur": "1:42:12"
+    },
+    {
+      "id": "y1CNA_A3H7Q",
+      "name": "KORUYUCU ASKER | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/y1CNA_A3H7Q/hqdefault.jpg",
+      "dur": "2:01:54"
+    },
+    {
+      "id": "cGhgsett6Gc",
+      "name": "SUÇLU OLANLAR | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/cGhgsett6Gc/hqdefault.jpg",
+      "dur": "1:41:52"
+    },
+    {
+      "id": "iLNH7d1j0M8",
+      "name": "GEMİ FELAKETİ | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/iLNH7d1j0M8/hqdefault.jpg",
+      "dur": "1:22:08"
+    },
+    {
+      "id": "7sKAsCh5w2Q",
+      "name": "GÖKTEN GELEN FELAKET | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/7sKAsCh5w2Q/hqdefault.jpg",
+      "dur": "1:20:11"
+    },
+    {
+      "id": "31fOnbs21o8",
+      "name": "NICOLAS CAGE AKSİYON FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/31fOnbs21o8/hqdefault.jpg",
+      "dur": "1:43:29"
+    }
+  ]
+}

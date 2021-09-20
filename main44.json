@@ -1,0 +1,130 @@
+{
+  "movies": [
+       {
+      "id": "4EYisNs5QmE",
+      "name": "Ejder Kapanı | Yerli Film",
+      "thumb": "https://i.ytimg.com/vi/4EYisNs5QmE/hqdefault.jpg",
+      "dur": "1:42:03"
+    },
+    {
+      "id": "dJRvmnG2Ci0",
+      "name": "Benim Dünyam | Yerli Film",
+      "thumb": "https://i.ytimg.com/vi/dJRvmnG2Ci0/hqdefault.jpg",
+      "dur": "1:40:21"
+    },
+    {
+      "id": "qkhKEATQjdg",
+      "name": "Hayatımın Kadınısın | Yerli Film",
+      "thumb": "https://i.ytimg.com/vi/qkhKEATQjdg/hqdefault.jpg",
+      "dur": "1:26:41"
+    },
+    {
+      "id": "Chlnp7hgmRQ",
+      "name": "Anlat İstanbul | Yerli Film",
+      "thumb": "https://i.ytimg.com/vi/Chlnp7hgmRQ/hqdefault.jpg",
+      "dur": "1:35:05"
+    },
+    {
+      "id": "TN-Kv-ZKNDI",
+      "name": "Soğuk | Yerli Film",
+      "thumb": "https://i.ytimg.com/vi/TN-Kv-ZKNDI/hqdefault.jpg",
+      "dur": "1:34:56"
+    },
+    {
+      "id": "BX97XzLY2HM",
+      "name": "Şaşkın | Yerli Komedi Filmi",
+      "thumb": "https://i.ytimg.com/vi/BX97XzLY2HM/hqdefault.jpg",
+      "dur": "1:25:21"
+    },
+    {
+      "id": "4_HiuYahIl8",
+      "name": "Balalayka | Yerli Film",
+      "thumb": "https://i.ytimg.com/vi/4_HiuYahIl8/hqdefault.jpg",
+      "dur": "1:56:48"
+    },
+    {
+      "id": "mLiZsLREUFs",
+      "name": "Karaoğlan | Yerli Film",
+      "thumb": "https://i.ytimg.com/vi/mLiZsLREUFs/hqdefault.jpg",
+      "dur": "1:48:07"
+    },
+    {
+      "id": "braj_cS5E88",
+      "name": "Balalayka - Tanya Nereye Gidiyor?",
+      "thumb": "https://i.ytimg.com/vi/braj_cS5E88/hqdefault.jpg",
+      "dur": "2:05"
+    },
+    {
+      "id": "0ixDCdiT3p8",
+      "name": "Dedemin İnsanları - Tek Parça HD",
+      "thumb": "https://i.ytimg.com/vi/0ixDCdiT3p8/hqdefault.jpg",
+      "dur": "1:59:04"
+    },
+    {
+      "id": "TvfzDeX0pcE",
+      "name": "Karanlıktakiler - Tek Parça HD",
+      "thumb": "https://i.ytimg.com/vi/TvfzDeX0pcE/hqdefault.jpg",
+      "dur": "1:39:47"
+    },
+    {
+      "id": "nuQNv6xhkQY",
+      "name": "Prensesin Uykusu - FULL HD",
+      "thumb": "https://i.ytimg.com/vi/nuQNv6xhkQY/hqdefault.jpg",
+      "dur": "1:41:21"
+    },
+    {
+      "id": "72Be8FOvJrU",
+      "name": "GÖRMEYEN GÖZ | FULL FİLM",
+      "thumb": "https://i.ytimg.com/vi/72Be8FOvJrU/hqdefault.jpg",
+      "dur": "1:28:07"
+    },
+    {
+      "id": "UPgqpcTqiH8",
+      "name": "YAŞAM SAVAŞI | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/UPgqpcTqiH8/hqdefault.jpg",
+      "dur": "1:53:18"
+    },
+    {
+      "id": "Xwi7EGwhjAU",
+      "name": "GUGUK KUŞU | JACK NICHOLSON",
+      "thumb": "https://i.ytimg.com/vi/Xwi7EGwhjAU/hqdefault.jpg",
+      "dur": "2:09:19"
+    },
+    {
+      "id": "nBF_JA9LW2A",
+      "name": "ESKİ BOKSÖR 👊| TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/nBF_JA9LW2A/hqdefault.jpg",
+      "dur": "1:22:45"
+    },
+    {
+      "id": "fPsxjHFztB8",
+      "name": "UYANMA VAKTİ | DRAM FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/fPsxjHFztB8/hqdefault.jpg",
+      "dur": "1:21:50"
+    },
+    {
+      "id": "Io3RHf1Oc0w",
+      "name": "JÜL SEZAR ⚔️ | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/Io3RHf1Oc0w/hqdefault.jpg",
+      "dur": "1:49:00"
+    },
+    {
+      "id": "Im6RPyHcE9E",
+      "name": "Brooklyn Raconları | Suç Filmi",
+      "thumb": "https://i.ytimg.com/vi/Im6RPyHcE9E/hqdefault.jpg",
+      "dur": "1:29:08"
+    },
+    {
+      "id": "z3D4XHQ6QxE",
+      "name": "ENTRİKA | TÜRKÇE DUBLAJ YABANCI GERİLİM FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/z3D4XHQ6QxE/hqdefault.jpg",
+      "dur": "1:37:20"
+    },
+    {
+      "id": "j7O4ZNyBxs0",
+      "name": "BÜYÜCÜ BABA 🧙‍♂️",
+      "thumb": "https://i.ytimg.com/vi/j7O4ZNyBxs0/hqdefault.jpg",
+      "dur": "1:10:01"
+    }
+  ]
+}
