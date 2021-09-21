@@ -29,10 +29,6 @@
       "ct_url": "duygusal_filmler"
     },
     {
-      "ct_name": "Eski Türk Filmleri",
-      "ct_url": "eski_turk_filmleri"
-    },
-    {
       "ct_name": "Gerilim",
       "ct_url": "gerilim_filmleri"
     },
@@ -67,6 +63,10 @@
     {
       "ct_name": "Romantik Komedi",
       "ct_url": "romantik_komedi_filmleri"
+    },
+    {
+      "ct_name": "Eski Türk Filmleri",
+      "ct_url": "eski_turk_filmleri"
     }
 
   ]
