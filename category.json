@@ -1,11 +1,11 @@
 {
   "categories": [
     {
-      "ct_name": "Aile F",
+      "ct_name": "Aile",
       "ct_url": "aile_filmleri"
     },
     {
-      "ct_name": "Aksiyon Filmleri",
+      "ct_name": "Aksiyon",
       "ct_url": "aksiyon_filmleri"
     },
     {
