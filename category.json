@@ -1,0 +1,73 @@
+{
+  "categories": [
+    {
+      "ct_name": "Aile Filmleri",
+      "ct_url": "aile_filmleri"
+    },
+    {
+      "ct_name": "Aksiyon Filmleri",
+      "ct_url": "aksiyon_filmleri"
+    },
+    {
+      "ct_name": "BilimKurgu Filmleri",
+      "ct_url": "bilimkurgu_filmleri"
+    },
+    {
+      "ct_name": "Yeşilçam Filmleri",
+      "ct_url": "yesilcam_filmleri"
+    },
+    {
+      "ct_name": "Western Filmleri",
+      "ct_url": "western_filmleri"
+    },
+    {
+      "ct_name": "Dram Filmleri",
+      "ct_url": "dram_filmleri"
+    },
+    {
+      "ct_name": "Duygusal Filmler",
+      "ct_url": "duygusal_filmler"
+    },
+    {
+      "ct_name": "Eski Türk Filmleri",
+      "ct_url": "eski_turk_filmleri"
+    },
+    {
+      "ct_name": "Gerilim Filmleri",
+      "ct_url": "gerilim_filmleri"
+    },
+    {
+      "ct_name": "Gizem Filmleri",
+      "ct_url": "gizem_filmleri"
+    },
+    {
+      "ct_name": "Kemal Sunal Filmleri",
+      "ct_url": "kemal_sunal_filmleri"
+    },
+    {
+      "ct_name": "Komedi Filmleri",
+      "ct_url": "komedi_filmleri"
+    },
+    {
+      "ct_name": "Cüneyt Arkın Filmleri",
+      "ct_url": "cuneyt_arkin_filmleri"
+    },
+    {
+      "ct_name": "Korku Filmleri",
+      "ct_url": "korku_filmleri"
+    },
+    {
+      "ct_name": "Kovboy Filmleri",
+      "ct_url": "kovboy_filmleri"
+    },
+    {
+      "ct_name": "Romantik Filmleri",
+      "ct_url": "romantik_filmleri"
+    },
+    {
+      "ct_name": "Romantik Komedi Filmleri",
+      "ct_url": "romantik_komedi_filmleri"
+    }
+
+  ]
+}
