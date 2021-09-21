@@ -1,0 +1,604 @@
+{
+  "movies": [
+    {
+      "id": "qQuWBPBb3Qg",
+      "name": "Kanlı Ok | Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/qQuWBPBb3Qg/hqdefault.jpg",
+      "dur": "1:27:29"
+    },
+    {
+      "id": "Cc3AFWVAol4",
+      "name": "Kin ve Zafer | Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/Cc3AFWVAol4/hqdefault.jpg",
+      "dur": "1:23:40"
+    },
+    {
+      "id": "NziRxEzF1FY",
+      "name": "Kahraman Şerif | Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/NziRxEzF1FY/hqdefault.jpg",
+      "dur": "1:18:22"
+    },
+    {
+      "id": "yNl1qTqu6mQ",
+      "name": "Affedilmeyen | Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/yNl1qTqu6mQ/hqdefault.jpg",
+      "dur": "1:54:41"
+    },
+    {
+      "id": "7GPx9tkHrKc",
+      "name": "Ölüm Avı | Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/7GPx9tkHrKc/hqdefault.jpg",
+      "dur": "1:42:49"
+    },
+    {
+      "id": "4sOSHMYxaug",
+      "name": "Aşk ve Kin | Türkçe Dublaj Western Film",
+      "thumb": "https://i.ytimg.com/vi/4sOSHMYxaug/hqdefault.jpg",
+      "dur": "1:34:21"
+    },
+    {
+      "id": "5XKQAazX034",
+      "name": "Son Darbe | John Wayne Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/5XKQAazX034/hqdefault.jpg",
+      "dur": "1:51:32"
+    },
+    {
+      "id": "3L1w2rruuiA",
+      "name": "Altın Adam | John Wayne Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/3L1w2rruuiA/hqdefault.jpg",
+      "dur": "2:05:08"
+    },
+    {
+      "id": "SAaWjlaRw-k",
+      "name": "Ormanlar Hakimi | Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/SAaWjlaRw-k/hqdefault.jpg",
+      "dur": "1:17:01"
+    },
+    {
+      "id": "LmEPWvJ5FjM",
+      "name": "Dağların Aslanı | Bud Spencer Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/LmEPWvJ5FjM/hqdefault.jpg",
+      "dur": "1:24:11"
+    },
+    {
+      "id": "8IuOeeOt4vM",
+      "name": "Hüküm Günü | Türkçe Dublaj",
+      "thumb": "https://i.ytimg.com/vi/8IuOeeOt4vM/hqdefault.jpg",
+      "dur": "1:23:10"
+    },
+    {
+      "id": "xqrqgz-G-Nw",
+      "name": "Dan Candy Kanunu | Türkçe Dublaj Western Film",
+      "thumb": "https://i.ytimg.com/vi/xqrqgz-G-Nw/hqdefault.jpg",
+      "dur": "1:21:56"
+    },
+    {
+      "id": "lBnuXeYJt1g",
+      "name": "Bir Zamanlar Batıda | Efsane Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/lBnuXeYJt1g/hqdefault.jpg",
+      "dur": "2:43:44"
+    },
+    {
+      "id": "eAl2gy4rp_M",
+      "name": "Yağmurcu | Türkçe Dublaj Western Filmi",
+      "thumb": "https://i.ytimg.com/vi/eAl2gy4rp_M/hqdefault.jpg",
+      "dur": "1:58:37"
+    },
+    {
+      "id": "pZvxJVoEjqA",
+      "name": "Kanun ve Silah | Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/pZvxJVoEjqA/hqdefault.jpg",
+      "dur": "1:36:50"
+    },
+    {
+      "id": "fBAnH12nCsw",
+      "name": "9 Hızlı Adam | Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/fBAnH12nCsw/hqdefault.jpg",
+      "dur": "1:27:33"
+    },
+    {
+      "id": "-9C_6CSR4WM",
+      "name": "Profesyoneller | Türkçe Dublaj",
+      "thumb": "https://i.ytimg.com/vi/-9C_6CSR4WM/hqdefault.jpg",
+      "dur": "1:54:49"
+    },
+    {
+      "id": "dp2c_6l4s3I",
+      "name": "Dönüşü Olmayan Nehir | Western Film",
+      "thumb": "https://i.ytimg.com/vi/dp2c_6l4s3I/hqdefault.jpg",
+      "dur": "1:20:59"
+    },
+    {
+      "id": "qcxJttitZmI",
+      "name": "Kanlı Kurşun | Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/qcxJttitZmI/hqdefault.jpg",
+      "dur": "1:36:03"
+    },
+    {
+      "id": "t0vRxaCXfEE",
+      "name": "Dört Kraliçeli Kral | Türkçe Dublaj Western Film",
+      "thumb": "https://i.ytimg.com/vi/t0vRxaCXfEE/hqdefault.jpg",
+      "dur": "1:18:42"
+    },
+    {
+      "id": "P1oUrrxkrms",
+      "name": "Westworld | Western Bilim Kurgu Filmi",
+      "thumb": "https://i.ytimg.com/vi/P1oUrrxkrms/hqdefault.jpg",
+      "dur": "1:18:41"
+    },
+    {
+      "id": "NDHZpKIpXT0",
+      "name": "Siyah Panter | Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/NDHZpKIpXT0/hqdefault.jpg",
+      "dur": "1:42:06"
+    },
+    {
+      "id": "B6SKvMe_lyc",
+      "name": "Dehşet Ülkesi | John Wayne Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/B6SKvMe_lyc/hqdefault.jpg",
+      "dur": "1:47:13"
+    },
+    {
+      "id": "uBoYoCEEKZA",
+      "name": "Küçük Dev Adam | Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/uBoYoCEEKZA/hqdefault.jpg",
+      "dur": "2:19:00"
+    },
+    {
+      "id": "ABBDtlBy4sQ",
+      "name": "Apaçi Tüfekleri | Türkçe Dublaj Western Film",
+      "thumb": "https://i.ytimg.com/vi/ABBDtlBy4sQ/hqdefault.jpg",
+      "dur": "1:30:39"
+    },
+    {
+      "id": "UoE2la25OIA",
+      "name": "Korkusuz Kahraman | Western Film",
+      "thumb": "https://i.ytimg.com/vi/UoE2la25OIA/hqdefault.jpg",
+      "dur": "1:39:44"
+    },
+    {
+      "id": "SwECeuj7Zgo",
+      "name": "Alaska Fedaileri | John Wayne Filmi",
+      "thumb": "https://i.ytimg.com/vi/SwECeuj7Zgo/hqdefault.jpg",
+      "dur": "1:59:58"
+    },
+    {
+      "id": "NpYyBr681as",
+      "name": "Dişi Kartal | Türkçe Dublaj Western Film",
+      "thumb": "https://i.ytimg.com/vi/NpYyBr681as/hqdefault.jpg",
+      "dur": "1:43:45"
+    },
+    {
+      "id": "5uJ8sh97TtE",
+      "name": "Kanlı Nehir | John Wayne Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/5uJ8sh97TtE/hqdefault.jpg",
+      "dur": "2:00:12"
+    },
+    {
+      "id": "P03f2qYZMUE",
+      "name": "Kırmızı Tepe | Türkçe Dublaj Western Film",
+      "thumb": "https://i.ytimg.com/vi/P03f2qYZMUE/hqdefault.jpg",
+      "dur": "1:29:44"
+    },
+    {
+      "id": "-4b9D5QbDUQ",
+      "name": "Kirli Geçmiş | Türkçe Dublaj Western Film",
+      "thumb": "https://i.ytimg.com/vi/-4b9D5QbDUQ/hqdefault.jpg",
+      "dur": "1:44:03"
+    },
+    {
+      "id": "LEDXdNeaIzw",
+      "name": "Bir Amerikan Efsanesi: Geronimo | Türkçe Dublaj Western Film",
+      "thumb": "https://i.ytimg.com/vi/LEDXdNeaIzw/hqdefault.jpg",
+      "dur": "1:44:13"
+    },
+    {
+      "id": "8RKXFl8nmaY",
+      "name": "San Antonio | Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/8RKXFl8nmaY/hqdefault.jpg",
+      "dur": "1:43:09"
+    },
+    {
+      "id": "Ou0wCi0wkMg",
+      "name": "Eski Dost 1973 | Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/Ou0wCi0wkMg/hqdefault.jpg",
+      "dur": "1:41:15"
+    },
+    {
+      "id": "w5_5nFGcih4",
+      "name": "İz Peşinde | Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/w5_5nFGcih4/hqdefault.jpg",
+      "dur": "2:05:53"
+    },
+    {
+      "id": "o7P3JoeGCr4",
+      "name": "Sabata Vadiler Hakimi | Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/o7P3JoeGCr4/hqdefault.jpg",
+      "dur": "1:37:59"
+    },
+    {
+      "id": "s-K6f2mDjH0",
+      "name": "Django'nun İntikamı | Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/s-K6f2mDjH0/hqdefault.jpg",
+      "dur": "1:27:58"
+    },
+    {
+      "id": "0gVVYf3M55c",
+      "name": "İntikam Silahı | Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/0gVVYf3M55c/hqdefault.jpg",
+      "dur": "1:24:39"
+    },
+    {
+      "id": "cvOTODS92Us",
+      "name": "Allah Affeder, Ben Etmem! | Bud Spencer & Terence Hill Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/cvOTODS92Us/hqdefault.jpg",
+      "dur": "1:45:15"
+    },
+    {
+      "id": "mo-8Q9lcNww",
+      "name": "Valdez Geliyor | Burt Lancaster 1972 Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/mo-8Q9lcNww/hqdefault.jpg",
+      "dur": "1:27:39"
+    },
+    {
+      "id": "-R_N4ItWqxI",
+      "name": "Kahramanlar Geçidi 1953 | Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/-R_N4ItWqxI/hqdefault.jpg",
+      "dur": "1:31:25"
+    },
+    {
+      "id": "g1ISGE_8RnY",
+      "name": "Yalnız Adam 1955 | Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/g1ISGE_8RnY/hqdefault.jpg",
+      "dur": "1:34:22"
+    },
+    {
+      "id": "BDwSMzPVyJQ",
+      "name": "Seven Dollars To Kill 1966 | Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/BDwSMzPVyJQ/hqdefault.jpg",
+      "dur": "1:23:51"
+    },
+    {
+      "id": "f-MUdIckP0g",
+      "name": "Dallas 1950 | Gary Cooper Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/f-MUdIckP0g/hqdefault.jpg",
+      "dur": "1:33:13"
+    },
+    {
+      "id": "oYLXToescsI",
+      "name": "Montana 1950 | Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/oYLXToescsI/hqdefault.jpg",
+      "dur": "1:12:15"
+    },
+    {
+      "id": "yzjJa2CYAwQ",
+      "name": "Atını Seven Kovboy Red Kit Daltonlara Karşı 1974 | Sadri Alışık Yerli Western Film",
+      "thumb": "https://i.ytimg.com/vi/yzjJa2CYAwQ/hqdefault.jpg",
+      "dur": "1:24:00"
+    },
+    {
+      "id": "VN3OE_EerNM",
+      "name": "Cavalry Charge (The Last Outpost) 1951 | Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/VN3OE_EerNM/hqdefault.jpg",
+      "dur": "1:20:12"
+    },
+    {
+      "id": "dOrWiRMTTPk",
+      "name": "Nefret Sekizlisi | The Hateful Eight 2016 Türkçe Dublaj Western Film | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/dOrWiRMTTPk/hqdefault.jpg",
+      "dur": "2:32:15"
+    },
+    {
+      "id": "wQaXU7_sSRU",
+      "name": "Kahraman Süvariler | The Horse Soldiers 1959 Türkçe Dublaj Kovboy Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/wQaXU7_sSRU/hqdefault.jpg",
+      "dur": "1:52:03"
+    },
+    {
+      "id": "DP4HS8jhBwc",
+      "name": "Friendly Persuasion 1956 | Gary Cooper Türkçe Dublaj Yabancı Kovboy Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/DP4HS8jhBwc/hqdefault.jpg",
+      "dur": "2:14:47"
+    },
+    {
+      "id": "jtcbTCsiMhs",
+      "name": "Catlow 1971 | Türkçe Altyazılı Yabancı Western Film | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/jtcbTCsiMhs/hqdefault.jpg",
+      "dur": "1:35:04"
+    },
+    {
+      "id": "YRxquHj7tBE",
+      "name": "The Burrowers 2008 | Türkçe Alt Yazılı Western Film | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/YRxquHj7tBE/hqdefault.jpg",
+      "dur": "1:30:36"
+    },
+    {
+      "id": "k3OygYDwyvY",
+      "name": "Davy Crockett 1955 | Türkçe Dublaj Yabancı Kovboy Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/k3OygYDwyvY/hqdefault.jpg",
+      "dur": "1:31:52"
+    },
+    {
+      "id": "BLKm2WJBQJ0",
+      "name": "Adiyos Teksas 1966 | Texas Addio | Türkçe Dublaj Yabancı Kovboy Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/BLKm2WJBQJ0/hqdefault.jpg",
+      "dur": "1:28:22"
+    },
+    {
+      "id": "nmdG4ecNFhY",
+      "name": "Asi Cengaver | Apache 1954 | Türkçe Dublaj Kovboy Filmi | Western Filmi Full İzle",
+      "thumb": "https://i.ytimg.com/vi/nmdG4ecNFhY/hqdefault.jpg",
+      "dur": "1:25:51"
+    },
+    {
+      "id": "ojzJi77mXpU",
+      "name": "Trinity Is Still My Name 1971 | Terence Hill & Bud Spencer Türkçe Dublaj Yabancı Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/ojzJi77mXpU/hqdefault.jpg",
+      "dur": "1:47:01"
+    },
+    {
+      "id": "-qYQRG_nJJI",
+      "name": "Görünmeyen Düşman | Türkçe Altyazılı Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/-qYQRG_nJJI/hqdefault.jpg",
+      "dur": "1:46:42"
+    },
+    {
+      "id": "H2r1bfY2XAQ",
+      "name": "Nevada Katilleri 1966 | Nevada Smith | Türkçe Altyazılı Yabancı Kovboy Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/H2r1bfY2XAQ/hqdefault.jpg",
+      "dur": "2:08:10"
+    },
+    {
+      "id": "L-SWs1w4tn0",
+      "name": "Çılgınların Günahı | Hud 1963 | Kovboy Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/L-SWs1w4tn0/hqdefault.jpg",
+      "dur": "1:49:46"
+    },
+    {
+      "id": "lrBcTtHF7UQ",
+      "name": "Bronco Billy 1980 | Clint Eastwood Türkçe Altyazılı Kovboy Filmi | Full Western Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/lrBcTtHF7UQ/hqdefault.jpg",
+      "dur": "1:48:47"
+    },
+    {
+      "id": "h2mCK978064",
+      "name": "Captain Apache 1971 | Lee Van Cleef | Türkçe Dublaj Yabancı Kovboy Filmi | Western Filmi Full İzle",
+      "thumb": "https://i.ytimg.com/vi/h2mCK978064/hqdefault.jpg",
+      "dur": "1:21:02"
+    },
+    {
+      "id": "xgIU9cVgO2U",
+      "name": "Kanunsuzlar | Lawless Tom Hardy Türkçe Dublaj Yabancı Western Film | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/xgIU9cVgO2U/hqdefault.jpg",
+      "dur": "1:43:29"
+    },
+    {
+      "id": "ViLktJ3Euks",
+      "name": "Asi Kabadayı 1967 | Hombre | Türkçe Dublaj Yabancı Kovboy Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/ViLktJ3Euks/hqdefault.jpg",
+      "dur": "1:48:01"
+    },
+    {
+      "id": "I0kkB8M04CI",
+      "name": "Eylül Şafağı | September Dawn 2007 | Türkçe Dublaj Yabancı Western Filmi",
+      "thumb": "https://i.ytimg.com/vi/I0kkB8M04CI/hqdefault.jpg",
+      "dur": "1:42:19"
+    },
+    {
+      "id": "EWI1igdO3u8",
+      "name": "3:10 Yuma Treni 2007 | Russell Crowe Christian Bale Türkçe Dublaj Yabancı Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/EWI1igdO3u8/hqdefault.jpg",
+      "dur": "1:47:51"
+    },
+    {
+      "id": "oouI5ixq5co",
+      "name": "Güneye Yolculuk | Goin' South 1978 | Jack Nicholson Türkçe Dublaj Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/oouI5ixq5co/hqdefault.jpg",
+      "dur": "1:40:48"
+    },
+    {
+      "id": "sJH-GFDOdAU",
+      "name": "Kasabadaki Yabancı Clint Eastwood | High Plains Drifter 1973 | Türkçe Dublaj Yabancı Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/sJH-GFDOdAU/hqdefault.jpg",
+      "dur": "1:38:22"
+    },
+    {
+      "id": "Cu1H268kfZk",
+      "name": "Çapkın Ortaklar | Pardners 1956 | Türkçe Alt Yazılı Yabancı Kovboy Filmi Full",
+      "thumb": "https://i.ytimg.com/vi/Cu1H268kfZk/hqdefault.jpg",
+      "dur": "1:11:27"
+    },
+    {
+      "id": "JakHnau4IqM",
+      "name": "İki Yavru 1946 | The Yearling | Türkçe Altyazılı Yabancı Kovboy Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/JakHnau4IqM/hqdefault.jpg",
+      "dur": "2:06:30"
+    },
+    {
+      "id": "znoGwI-g9Ik",
+      "name": "Sabata Dönüyor 1971 | Return Of Sabata | Lee Van Cleef | Türkçe Dublaj Yabancı Kovboy Filmi Full",
+      "thumb": "https://i.ytimg.com/vi/znoGwI-g9Ik/hqdefault.jpg",
+      "dur": "1:40:04"
+    },
+    {
+      "id": "tJ8K_AdDGBg",
+      "name": "The Shooting 1967 | Jack Nicholson | Türkçe Dublaj Yabancı Kovboy Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/tJ8K_AdDGBg/hqdefault.jpg",
+      "dur": "1:18:35"
+    },
+    {
+      "id": "SqOQRlSLc8s",
+      "name": "Koloradolu Adam 1948 | The Man from Colorado | Türkçe Altyazılı Yabancı Kovboy Filmi | Full Film",
+      "thumb": "https://i.ytimg.com/vi/SqOQRlSLc8s/hqdefault.jpg",
+      "dur": "1:37:26"
+    },
+    {
+      "id": "HqV-POz752I",
+      "name": "Genç Kovboylar 1972 | The Cowboys | Türkçe Altyazılı Yabancı Kovboy Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/HqV-POz752I/hqdefault.jpg",
+      "dur": "2:00:33"
+    },
+    {
+      "id": "u5xG5n7euFo",
+      "name": "İntikam Peşinde 1975 | Rooster Cogburn | Türkçe Dublaj Yabancı Kovboy Filmi | Full Film",
+      "thumb": "https://i.ytimg.com/vi/u5xG5n7euFo/hqdefault.jpg",
+      "dur": "1:41:31"
+    },
+    {
+      "id": "38Qg3S3Cm8k",
+      "name": "Kasırga Kovboyları 1966 | Ride in the Whirlwind | Türkçe Altyazılı Yabancı Kovboy Filmi | Full Film",
+      "thumb": "https://i.ytimg.com/vi/38Qg3S3Cm8k/hqdefault.jpg",
+      "dur": "1:20:49"
+    },
+    {
+      "id": "xry8EAVT9Jc",
+      "name": "Bana Trinity Derler 1970 | Terence Hill Bud Spencer | Türkçe Dublaj Yabancı Kovboy Filmi",
+      "thumb": "https://i.ytimg.com/vi/xry8EAVT9Jc/hqdefault.jpg",
+      "dur": "1:47:17"
+    },
+    {
+      "id": "wgqlYMqfXtE",
+      "name": "Altın Adam 1963 | John Wayne Türkçe Dublaj Yabancı Kovboy Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/wgqlYMqfXtE/hqdefault.jpg",
+      "dur": "2:05:08"
+    },
+    {
+      "id": "T3diI6328Ps",
+      "name": "Kanun Dışı 1968 | Beyond The Law | Türkçe Dublaj Yabancı Kovboy Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/T3diI6328Ps/hqdefault.jpg",
+      "dur": "1:44:44"
+    },
+    {
+      "id": "N438uAsUfU4",
+      "name": "Batının Dört Devi Dönüyor 1969 | Boot Hill | Türkçe Dublaj Yabancı Kovboy Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/N438uAsUfU4/hqdefault.jpg",
+      "dur": "1:20:20"
+    },
+    {
+      "id": "ioB_kF_GzCo",
+      "name": "Vahşi Melez 1973 | Türkçe Dublaj Yabancı Western Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/ioB_kF_GzCo/hqdefault.jpg",
+      "dur": "1:28:59"
+    },
+    {
+      "id": "jF2cTes2a_g",
+      "name": "Guns of the Magnificent Seven 1969 | Türkçe Dublaj Yabancı Western Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/jF2cTes2a_g/hqdefault.jpg",
+      "dur": "1:38:48"
+    },
+    {
+      "id": "Am7-zyDOR_0",
+      "name": "Cango'nun İntikamı 1966 | Django | Türkçe Dublaj Yabancı Western Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/Am7-zyDOR_0/hqdefault.jpg",
+      "dur": "1:27:58"
+    },
+    {
+      "id": "tsHZx-2GbIs",
+      "name": "Kin Tuzağı | Big Jake 1971 | Türkçe Dublaj Yabancı Western Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/tsHZx-2GbIs/hqdefault.jpg",
+      "dur": "1:46:43"
+    },
+    {
+      "id": "j1weO4DsH8Q",
+      "name": "Alamo Kalesi | The Alamo 1960 | Türkçe Dublaj Yabancı Western Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/j1weO4DsH8Q/hqdefault.jpg",
+      "dur": "2:37:47"
+    },
+    {
+      "id": "uqG9cLSoERg",
+      "name": "The Train Robbers 1973 ( Tren Soyguncuları ) | Türkçe Dublaj Yabancı Western Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/uqG9cLSoERg/hqdefault.jpg",
+      "dur": "1:31:36"
+    },
+    {
+      "id": "thEwZa4URjo",
+      "name": "The Apple Dumpling Gang Rides Again 1979 | Türkçe Dublaj Yabancı Komedi Western Filmi | Full Film",
+      "thumb": "https://i.ytimg.com/vi/thEwZa4URjo/hqdefault.jpg",
+      "dur": "1:26:55"
+    },
+    {
+      "id": "WpmJyi6BPpQ",
+      "name": "Uzun Sürücüler ( The Long Riders ) | 1980 | Türkçe Dublaj Yabancı Kovboy Filmi | Western Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/WpmJyi6BPpQ/hqdefault.jpg",
+      "dur": "1:33:06"
+    },
+    {
+      "id": "kz_Ca0Ni87E",
+      "name": "Muhteşem Yedili (The Magnificent Seven Ride) | 1972 | Türkçe Dublaj Kovboy Filmi | Full Western İzle",
+      "thumb": "https://i.ytimg.com/vi/kz_Ca0Ni87E/hqdefault.jpg",
+      "dur": "1:35:12"
+    },
+    {
+      "id": "X7j37OxzkN4",
+      "name": "Geronimo : Bir Amerikan Efsanesi | 1993 | Türkçe Dublaj Kovboy Filmi | Full Western Film İzle",
+      "thumb": "https://i.ytimg.com/vi/X7j37OxzkN4/hqdefault.jpg",
+      "dur": "1:46:28"
+    },
+    {
+      "id": "Sccu2F2QebY",
+      "name": "The Professionals 1966 ( Profesyoneller ) | Türkçe Dublaj Yabancı Western Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/Sccu2F2QebY/hqdefault.jpg",
+      "dur": "1:54:49"
+    },
+    {
+      "id": "0Bnd_tkh-8A",
+      "name": "Benim Adım Hiç Kimse 1974 (My Name Is Nobody) | Türkçe Dublaj Yabancı Western Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/0Bnd_tkh-8A/hqdefault.jpg",
+      "dur": "1:46:26"
+    },
+    {
+      "id": "Rnx9Eeain2o",
+      "name": "Sabata Vadiler Hakimi | 1969 | Türkçe Dublaj Yabancı Kovboy Filmi | Full Western Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/Rnx9Eeain2o/hqdefault.jpg",
+      "dur": "1:37:59"
+    },
+    {
+      "id": "AM7tLi0D6YA",
+      "name": "Westworld | 1973 | Richard Benjamin Türkçe Dublaj Yabancı Kovboy Filmi | Full Western Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/AM7tLi0D6YA/hqdefault.jpg",
+      "dur": "1:18:41"
+    },
+    {
+      "id": "KrtoBgxeCKY",
+      "name": "Once Upon A Time In The West | 1968 | Türkçe Dublaj Yabancı Kovboy Filmi | Full Western Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/KrtoBgxeCKY/hqdefault.jpg",
+      "dur": "2:27:54"
+    },
+    {
+      "id": "gzX1_q8dtt8",
+      "name": "Chisum | John Wayne Yabancı Kovboy Filmi | Türkçe Dublaj Full Western Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/gzX1_q8dtt8/hqdefault.jpg",
+      "dur": "1:46:56"
+    },
+    {
+      "id": "99zQPldGIWg",
+      "name": "Pale Rider | Clint Eastwood Yabancı Kovboy Filmi | Türkçe Dublaj Full Western Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/99zQPldGIWg/hqdefault.jpg",
+      "dur": "1:52:51"
+    },
+    {
+      "id": "874r0G8FKTI",
+      "name": "The War Wagon | John Wayne Yabancı Kovboy Filmi | Türkçe Dublaj Full Western Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/874r0G8FKTI/hqdefault.jpg",
+      "dur": "1:40:23"
+    },
+    {
+      "id": "eDAboWO4bMs",
+      "name": "River of No Return | Yabancı Kovboy Filmi | Türkçe Dublaj Full Western Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/eDAboWO4bMs/hqdefault.jpg",
+      "dur": "1:21:12"
+    },
+    {
+      "id": "5LAz3P7Z6xw",
+      "name": "The Unforgiven | Yabancı Kovboy Filmi | Türkçe Dublaj Full Western Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/5LAz3P7Z6xw/hqdefault.jpg",
+      "dur": "1:54:41"
+    },
+    {
+      "id": "O_QpSPM4U2w",
+      "name": "The Hunting Party | Yabancı Kovboy Filmi | Türkçe Dublaj Full Western Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/O_QpSPM4U2w/hqdefault.jpg",
+      "dur": "1:42:59"
+    }
+  ]
+}

@@ -1,0 +1,778 @@
+{
+  "movies": [
+    {
+      "id": "5WjaOQiW16w",
+      "name": "ÖLÜMCÜL KÖPEKBALIĞI | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/5WjaOQiW16w/hqdefault.jpg",
+      "dur": "1:26:05"
+    },
+    {
+      "id": "q6LWjAWsENY",
+      "name": "KARANLIK ÖLÜM | KORKU FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/q6LWjAWsENY/hqdefault.jpg",
+      "dur": "1:18:18"
+    },
+    {
+      "id": "FRPrza1eMd0",
+      "name": "ODA🚪 | KORKU FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/FRPrza1eMd0/hqdefault.jpg",
+      "dur": "1:22:49"
+    },
+    {
+      "id": "aTyOe9Bp79s",
+      "name": "WINCHESTER'IN İNTİKAMI | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/aTyOe9Bp79s/hqdefault.jpg",
+      "dur": "1:30:13"
+    },
+    {
+      "id": "_MjlB-naDIc",
+      "name": "ACIMASIZ | GERİLİM FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/_MjlB-naDIc/hqdefault.jpg",
+      "dur": "1:17:51"
+    },
+    {
+      "id": "wP9oA51csjQ",
+      "name": "ACIMASIZ | KORKU FİLMİ TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/wP9oA51csjQ/hqdefault.jpg",
+      "dur": "1:39:01"
+    },
+    {
+      "id": "T2yAWKGV05I",
+      "name": "SESSİZ ÇIĞLIK | TÜRKÇE DUBLAJ GERİLİM",
+      "thumb": "https://i.ytimg.com/vi/T2yAWKGV05I/hqdefault.jpg",
+      "dur": "1:22:51"
+    },
+    {
+      "id": "KUolIapLh1o",
+      "name": "ÖLÜLER | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/KUolIapLh1o/hqdefault.jpg",
+      "dur": "1:08:11"
+    },
+    {
+      "id": "T2tk9hQElek",
+      "name": "LANETLİ VAMPİR🦇 | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/T2tk9hQElek/hqdefault.jpg",
+      "dur": "1:22:29"
+    },
+    {
+      "id": "a5W67FlRclw",
+      "name": "KORKULU GECE | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/a5W67FlRclw/hqdefault.jpg",
+      "dur": "1:27:33"
+    },
+    {
+      "id": "WceQGO_zQ78",
+      "name": "SOĞUK ÖLÜM ☠ | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/WceQGO_zQ78/hqdefault.jpg",
+      "dur": "1:21:47"
+    },
+    {
+      "id": "bg_Vs7CZ8nM",
+      "name": "ESRARENGİZ GERÇEKLER | KORKU FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/bg_Vs7CZ8nM/hqdefault.jpg",
+      "dur": "1:14:23"
+    },
+    {
+      "id": "5E7ciTt433o",
+      "name": "ÖLÜM GECESİ 🔪 | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/5E7ciTt433o/hqdefault.jpg",
+      "dur": "1:30:09"
+    },
+    {
+      "id": "7T-FbP4oyGA",
+      "name": "KORKU TRENİ 😱 | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/7T-FbP4oyGA/hqdefault.jpg",
+      "dur": "1:23:36"
+    },
+    {
+      "id": "OjQvej-sX_4",
+      "name": "ÖLÜM ZİNCİRİ 🔪 | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/OjQvej-sX_4/hqdefault.jpg",
+      "dur": "1:22:22"
+    },
+    {
+      "id": "ymXzFxbn0wg",
+      "name": "PAN'IN LABİRENTİ | TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/ymXzFxbn0wg/hqdefault.jpg",
+      "dur": "1:51:28"
+    },
+    {
+      "id": "pa_WgZYzcMU",
+      "name": "SEVGİLİLER GÜNÜ KATLİAMI 🔪 KORKU FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/pa_WgZYzcMU/hqdefault.jpg",
+      "dur": "1:21:20"
+    },
+    {
+      "id": "btz_yK__6Qc",
+      "name": "KORKUNÇ HAFTA SONU 😱 TÜRKÇE DUBLAJ GERİLİM FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/btz_yK__6Qc/hqdefault.jpg",
+      "dur": "1:22:13"
+    },
+    {
+      "id": "64tlc5eIzYk",
+      "name": "ŞEY 🙀🙀 KORKU FİLMİ TÜRKÇE DUBLAJ",
+      "thumb": "https://i.ytimg.com/vi/64tlc5eIzYk/hqdefault.jpg",
+      "dur": "1:31:00"
+    },
+    {
+      "id": "JmsUlmM8AR4",
+      "name": "KORK YA DA ÖL 😱KORKU FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/JmsUlmM8AR4/hqdefault.jpg",
+      "dur": "1:25:58"
+    },
+    {
+      "id": "zdqyP1w9iuA",
+      "name": "Virüs Korkusu | Gerilim Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/zdqyP1w9iuA/hqdefault.jpg",
+      "dur": "1:23:43"
+    },
+    {
+      "id": "dk_wmF0Cwmg",
+      "name": "Super Melez | 2010 | Türkçe Dublaj Yabancı Gerilim Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/dk_wmF0Cwmg/hqdefault.jpg",
+      "dur": "1:28:55"
+    },
+    {
+      "id": "BWhJ0o18SnQ",
+      "name": "Çocuk Oyunu | Child's Game | 2001 | Gerilim Filmi | Türkçe Altyazı",
+      "thumb": "https://i.ytimg.com/vi/BWhJ0o18SnQ/hqdefault.jpg",
+      "dur": "1:09:50"
+    },
+    {
+      "id": "bwEk61__ZSs",
+      "name": "The Attic | 2008 | Korku Filmi | Türkçe Dublaj",
+      "thumb": "https://i.ytimg.com/vi/bwEk61__ZSs/hqdefault.jpg",
+      "dur": "1:17:36"
+    },
+    {
+      "id": "WmEg63H3MxE",
+      "name": "Camp Hell | 2010 | Türkçe Altyazılı Korku Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/WmEg63H3MxE/hqdefault.jpg",
+      "dur": "1:29:54"
+    },
+    {
+      "id": "RcJixmK97_I",
+      "name": "Şeytanın Gözü | 2007 | Türkçe Altyazılı Gerilim Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/RcJixmK97_I/hqdefault.jpg",
+      "dur": "1:41:03"
+    },
+    {
+      "id": "Ua-UONSHwzI",
+      "name": "Koridor | 2012 | Türkçe Dublaj Korku Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/Ua-UONSHwzI/hqdefault.jpg",
+      "dur": "1:21:31"
+    },
+    {
+      "id": "HH661INNJV0",
+      "name": "Lanetli Çocuk | 2016 | Türkçe Dublaj Korku Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/HH661INNJV0/hqdefault.jpg",
+      "dur": "1:31:59"
+    },
+    {
+      "id": "1Oz8-7fLMIU",
+      "name": "Korku Evi | 2011 | Türkçe Dublaj Gerilim Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/1Oz8-7fLMIU/hqdefault.jpg",
+      "dur": "1:21:36"
+    },
+    {
+      "id": "cJRivJps8TQ",
+      "name": "Katil Farelerin Dönüşü | 2012 | Türkçe Dublaj Korku Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/cJRivJps8TQ/hqdefault.jpg",
+      "dur": "1:15:02"
+    },
+    {
+      "id": "vgmXmE5qe2I",
+      "name": "Knife Edge | 2009 | Türkçe Dublaj Korku Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/vgmXmE5qe2I/hqdefault.jpg",
+      "dur": "1:27:09"
+    },
+    {
+      "id": "Xjfo4IsSjf8",
+      "name": "Kardaki Yaratık: Yeti | 2008 | Türkçe Dublaj Gerilim Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/Xjfo4IsSjf8/hqdefault.jpg",
+      "dur": "1:22:29"
+    },
+    {
+      "id": "dZLnZL2s1sw",
+      "name": "Sınır Bölgesi | 2007 | Türkçe Dublaj Gerilim Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/dZLnZL2s1sw/hqdefault.jpg",
+      "dur": "1:29:26"
+    },
+    {
+      "id": "qtlY-QCfUxg",
+      "name": "Kayıp Koloni | 2007 | Türkçe Dublaj Fantastik Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/qtlY-QCfUxg/hqdefault.jpg",
+      "dur": "1:23:46"
+    },
+    {
+      "id": "LVGc7K6i94Q",
+      "name": "Doğuştan Katil | 2011 | Türkçe Dublaj Gerilim Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/LVGc7K6i94Q/hqdefault.jpg",
+      "dur": "1:18:51"
+    },
+    {
+      "id": "gnCv7B9_1wI",
+      "name": "Göz | 2008 | Jessica Alba Türkçe Dublaj Korku Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/gnCv7B9_1wI/hqdefault.jpg",
+      "dur": "1:25:41"
+    },
+    {
+      "id": "D_YqQsIZ0bs",
+      "name": "Kabus | 2006 | Türkçe Dublaj Yabancı Korku Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/D_YqQsIZ0bs/hqdefault.jpg",
+      "dur": "1:35:48"
+    },
+    {
+      "id": "gxaxG-28kGE",
+      "name": "Korku Parkı | 2008 | Türkçe Dublaj Korku Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/gxaxG-28kGE/hqdefault.jpg",
+      "dur": "1:24:32"
+    },
+    {
+      "id": "k2yEnvZ1GUc",
+      "name": "Yukarı Bakma | 2009 | Türkçe Dublaj Yabancı Korku Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/k2yEnvZ1GUc/hqdefault.jpg",
+      "dur": "1:15:28"
+    },
+    {
+      "id": "nKZhme-XPgQ",
+      "name": "Palyaço 2014 | Türkçe Dublaj Yabancı Korku Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/nKZhme-XPgQ/hqdefault.jpg",
+      "dur": "1:34:59"
+    },
+    {
+      "id": "DCseZYYvDSQ",
+      "name": "Frankenstein: Ölümsüzlerin Savaşı | 2014 | Türkçe Dublaj Yabancı Gerilim Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/DCseZYYvDSQ/hqdefault.jpg",
+      "dur": "1:21:16"
+    },
+    {
+      "id": "gpbLP0EYK4o",
+      "name": "Dönüşüm | Türkçe Dublaj Yabancı Dram Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/gpbLP0EYK4o/hqdefault.jpg",
+      "dur": "1:29:50"
+    },
+    {
+      "id": "UFD7VsCT-OA",
+      "name": "30 Gün Gece 2 | Türkçe Altyazılı Yabancı Korku Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/UFD7VsCT-OA/hqdefault.jpg",
+      "dur": "1:21:46"
+    },
+    {
+      "id": "Dtil-c-UxyI",
+      "name": "Kanlı Tuzak(Bloody Mallory) | Türkçe Altyazılı Full Film Tek Parça İzle",
+      "thumb": "https://i.ytimg.com/vi/Dtil-c-UxyI/hqdefault.jpg",
+      "dur": "1:21:25"
+    },
+    {
+      "id": "eIACbJ_UK30",
+      "name": "Kobaylar (The Facility) | Türkçe Dublaj Yabancı Bilim Kurgu Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/eIACbJ_UK30/hqdefault.jpg",
+      "dur": "1:12:41"
+    },
+    {
+      "id": "hgnZ6jx5Pd4",
+      "name": "Kasabadaki Sır (Peacock) | Türkçe Dublaj Yabancı Gerilim Filmi | Full İzle",
+      "thumb": "https://i.ytimg.com/vi/hgnZ6jx5Pd4/hqdefault.jpg",
+      "dur": "1:23:47"
+    },
+    {
+      "id": "NE49ofYPelo",
+      "name": "Tarikat (Alice Sweet Alice) | Türkçe Dublaj Gerilim Filmi | Full İzle",
+      "thumb": "https://i.ytimg.com/vi/NE49ofYPelo/hqdefault.jpg",
+      "dur": "1:39:35"
+    },
+    {
+      "id": "dG-ChzlH_Ms",
+      "name": "Korku Hikayeleri | Türkçe Dublaj Korku Filmi | Full İzle",
+      "thumb": "https://i.ytimg.com/vi/dG-ChzlH_Ms/hqdefault.jpg",
+      "dur": "1:28:19"
+    },
+    {
+      "id": "qXA9SwHvK5E",
+      "name": "Nine Dead | Türkçe Alt Yazılı Gerilim Filmi | Full İzle",
+      "thumb": "https://i.ytimg.com/vi/qXA9SwHvK5E/hqdefault.jpg",
+      "dur": "1:22:45"
+    },
+    {
+      "id": "M6a9Hm2pzaY",
+      "name": "The Seamstress | Türkçe Alt Yazılı Gerilim Filmi | Full İzle",
+      "thumb": "https://i.ytimg.com/vi/M6a9Hm2pzaY/hqdefault.jpg",
+      "dur": "1:06:17"
+    },
+    {
+      "id": "6q_6CBW_x68",
+      "name": "Yolcular | Türkçe Dublaj Gerilim Filmi | Full İzle",
+      "thumb": "https://i.ytimg.com/vi/6q_6CBW_x68/hqdefault.jpg",
+      "dur": "1:19:39"
+    },
+    {
+      "id": "iIvgIhOTqfE",
+      "name": "Gen | Türk Gerilim Filmi | Full İzle",
+      "thumb": "https://i.ytimg.com/vi/iIvgIhOTqfE/hqdefault.jpg",
+      "dur": "1:32:20"
+    },
+    {
+      "id": "7jKBet3k9kQ",
+      "name": "Muska | Türk Korku Filmi | Full İzle",
+      "thumb": "https://i.ytimg.com/vi/7jKBet3k9kQ/hqdefault.jpg",
+      "dur": "1:04:59"
+    },
+    {
+      "id": "7avQZ_lkN8c",
+      "name": "Psişik | Türk Korku Filmi | Full İzle",
+      "thumb": "https://i.ytimg.com/vi/7avQZ_lkN8c/hqdefault.jpg",
+      "dur": "1:15:53"
+    },
+    {
+      "id": "wbSNjONFnps",
+      "name": "Şeytan-ı Racim | Türk Korku - Gerilim Filmi | Full İzle",
+      "thumb": "https://i.ytimg.com/vi/wbSNjONFnps/hqdefault.jpg",
+      "dur": "1:19:18"
+    },
+    {
+      "id": "0acBTjgDcVc",
+      "name": "Ammar 2: Cin İstilası | Türk Korku Filmi | Full İzle",
+      "thumb": "https://i.ytimg.com/vi/0acBTjgDcVc/hqdefault.jpg",
+      "dur": "1:20:57"
+    },
+    {
+      "id": "Kbdu1Y5EdiA",
+      "name": "Olur Olur! | Türk Komedi Filmi | Full İzle",
+      "thumb": "https://i.ytimg.com/vi/Kbdu1Y5EdiA/hqdefault.jpg",
+      "dur": "1:36:53"
+    },
+    {
+      "id": "Cxye9U89EVA",
+      "name": "İblisin Oğlu | Türk Korku Filmi | Full İzle",
+      "thumb": "https://i.ytimg.com/vi/Cxye9U89EVA/hqdefault.jpg",
+      "dur": "59:10"
+    },
+    {
+      "id": "WvmtY0wCY0M",
+      "name": "Zehirli Öfke | 1080p Full HD Korku, Gerilim, Gizem, Yabancı, Türkçe Dublaj En yeni Film İzle 2021,",
+      "thumb": "https://i.ytimg.com/vi/WvmtY0wCY0M/hqdefault.jpg",
+      "dur": "1:26:52"
+    },
+    {
+      "id": "TuSFrqAq4hg",
+      "name": "Kapıyı Çalma | 1080p Full HD Korku, Gerilim, Gizem, Yabancı, Türkçe Dublaj En iyi Film İzle,",
+      "thumb": "https://i.ytimg.com/vi/TuSFrqAq4hg/hqdefault.jpg",
+      "dur": "1:26:22"
+    },
+    {
+      "id": "LYWS7bPzPUM",
+      "name": "VAHŞET GECESİ (efsane film) | 1080p Full HD Korku, Gerilim, Gizem, Türkçe Dublaj En iyi Film İzle,",
+      "thumb": "https://i.ytimg.com/vi/LYWS7bPzPUM/hqdefault.jpg",
+      "dur": "1:23:30"
+    },
+    {
+      "id": "IyTYJglzs6U",
+      "name": "Orman'daki Korkunç Gece | 1080p Full HD Korku, Gerilim, Gizem, Türkçe Dublaj En iyi Film İzle,",
+      "thumb": "https://i.ytimg.com/vi/IyTYJglzs6U/hqdefault.jpg",
+      "dur": "1:27:03"
+    },
+    {
+      "id": "MrqmXSlGggc",
+      "name": "Evde Mahsur | 1080p Full HD Gerilim, Gizem, Korku Yabancı, Türkçe Dublaj En iyi Film İzle,",
+      "thumb": "https://i.ytimg.com/vi/MrqmXSlGggc/hqdefault.jpg",
+      "dur": "1:28:31"
+    },
+    {
+      "id": "RBcr5Enf4Go",
+      "name": "AKIL HASTASI | 1080p Full HD Korku, Gerilim, Gizem, Yabancı, Türkçe Dublaj En iyi Film İzle,",
+      "thumb": "https://i.ytimg.com/vi/RBcr5Enf4Go/hqdefault.jpg",
+      "dur": "1:55:37"
+    },
+    {
+      "id": "ypC8Aw3mEBc",
+      "name": "Mayaların Cehennemi | HD Korku, Gerilim, Gizem, Yabancı, Türkçe Dublaj En iyi Film İzle,",
+      "thumb": "https://i.ytimg.com/vi/ypC8Aw3mEBc/hqdefault.jpg",
+      "dur": "1:22:27"
+    },
+    {
+      "id": "OLa5hnhK3Z4",
+      "name": "Vampir Avcısı | HD Korku, Gerilim, Gizem, Yabancı, Türkçe Dublaj En iyi Film full İzle",
+      "thumb": "https://i.ytimg.com/vi/OLa5hnhK3Z4/hqdefault.jpg",
+      "dur": "1:27:27"
+    },
+    {
+      "id": "hIL6AAlrQQ4",
+      "name": "Ölüm Oteli - imdb 6.7 | HD Korku, Gerilim, Gizem, Yabancı, Türkçe Dublaj En iyi Full Film İzle,",
+      "thumb": "https://i.ytimg.com/vi/hIL6AAlrQQ4/hqdefault.jpg",
+      "dur": "1:33:22"
+    },
+    {
+      "id": "q8D_N5oAVnY",
+      "name": "Ölümden sonra | 1080p Full HD Korku, Gerilim, Gizem, Yabancı, Türkçe Dublaj En yeni korku Film İzle,",
+      "thumb": "https://i.ytimg.com/vi/q8D_N5oAVnY/hqdefault.jpg",
+      "dur": "1:23:42"
+    },
+    {
+      "id": "adB-ZVdxkO0",
+      "name": "Vahşi Ögrenci Katili | HD Korku, Gerilim, Gizem, Yabancı, Türkçe Dublaj En iyi Full Film İzle,",
+      "thumb": "https://i.ytimg.com/vi/adB-ZVdxkO0/hqdefault.jpg",
+      "dur": "1:26:24"
+    },
+    {
+      "id": "GD9ztGoPcz0",
+      "name": "Yaratıklar Şehri | 1080p Full HD Korku, Gerilim, Yabancı, Türkçe Dublaj en Yeni Film İzle,",
+      "thumb": "https://i.ytimg.com/vi/GD9ztGoPcz0/hqdefault.jpg",
+      "dur": "1:32:06"
+    },
+    {
+      "id": "bTiEX3hCd1o",
+      "name": "CESET | imdb 7.6 1080p Full HD Korku, Gerilim, Gizem, Yabancı, Türkçe Dublaj En iyi Film İzle",
+      "thumb": "https://i.ytimg.com/vi/bTiEX3hCd1o/hqdefault.jpg",
+      "dur": "1:51:12"
+    },
+    {
+      "id": "0cHo2P3ijV4",
+      "name": "Yaşayan Ölüler | HD Korku, Gerilim, Gizem, Zombi, Yabancı, Türkçe Dublaj En yeni full Film İzle,",
+      "thumb": "https://i.ytimg.com/vi/0cHo2P3ijV4/hqdefault.jpg",
+      "dur": "1:29:45"
+    },
+    {
+      "id": "p-H3xPl0tGw",
+      "name": "Şiddetli Kötülük | Korku, Gerilim, Gizem, Yabancı, Türkçe Dublaj hd En iyi Film Full İzle",
+      "thumb": "https://i.ytimg.com/vi/p-H3xPl0tGw/hqdefault.jpg",
+      "dur": "1:22:27"
+    },
+    {
+      "id": "qZ3AdR8nQRo",
+      "name": "KANLI KONTES | HD Korku, Gerilim, Gizem, Yabancı, Türkçe Dublaj En iyi Film FULL İzle,",
+      "thumb": "https://i.ytimg.com/vi/qZ3AdR8nQRo/hqdefault.jpg",
+      "dur": "1:35:24"
+    },
+    {
+      "id": "mBKauFI4RAI",
+      "name": "ESRAR 13 | 1080p Full HD Korku, Gerilim, Gizem, Yabancı, Türkçe Dublaj En iyi Film İzle",
+      "thumb": "https://i.ytimg.com/vi/mBKauFI4RAI/hqdefault.jpg",
+      "dur": "1:21:13"
+    },
+    {
+      "id": "_qpzh61Cc78",
+      "name": "PEŞİNDE ÖLÜM VAR | Türkçe Dublajlı Tek Parça Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/_qpzh61Cc78/hqdefault.jpg",
+      "dur": "1:23:26"
+    },
+    {
+      "id": "VOIX3HbXhAU",
+      "name": "13. CUMA |2017 - Türkçe Dublajlı Tek Parça Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/VOIX3HbXhAU/hqdefault.jpg",
+      "dur": "1:35:43"
+    },
+    {
+      "id": "JvZ426dz9MA",
+      "name": "TANRIDAN GELEN | Türkçe Dublajlı Tek Parça Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/JvZ426dz9MA/hqdefault.jpg",
+      "dur": "1:49:30"
+    },
+    {
+      "id": "6GLUD_z2Lbw",
+      "name": "KANLI EFSANE | Türkçe Dublajlı Tek Parça Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/6GLUD_z2Lbw/hqdefault.jpg",
+      "dur": "1:19:00"
+    },
+    {
+      "id": "E9dJcS7uv_Y",
+      "name": "ŞEYTAN KULESİ | Türkçe Dublajlı Tek Parça Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/E9dJcS7uv_Y/hqdefault.jpg",
+      "dur": "1:25:59"
+    },
+    {
+      "id": "_lMqXYP7q_8",
+      "name": "SLAUGHTER NIGHT (SL8N8) | Türkçe dublajlı Tek Parça Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/_lMqXYP7q_8/hqdefault.jpg",
+      "dur": "1:29:35"
+    },
+    {
+      "id": "RtiSyze9Lc0",
+      "name": "TOZ | Türkçe Dublajlı Tek Parça Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/RtiSyze9Lc0/hqdefault.jpg",
+      "dur": "1:18:12"
+    },
+    {
+      "id": "cYb6C92Bt9k",
+      "name": "OYUNCAK EVİ CİNAYETİ | Türkçe Dublajlı Tek Parça Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/cYb6C92Bt9k/hqdefault.jpg",
+      "dur": "1:29:14"
+    },
+    {
+      "id": "w1fsJlTxugo",
+      "name": "DEAD STOP | Türkçe Dublajlı Tek Parça Full Gerilim Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/w1fsJlTxugo/hqdefault.jpg",
+      "dur": "1:31:13"
+    },
+    {
+      "id": "iizqZdRCgPw",
+      "name": "ÖLÜMCÜL TEMAS | Türkçe Dublajlı Tek Parça Full Gerilim Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/iizqZdRCgPw/hqdefault.jpg",
+      "dur": "1:21:56"
+    },
+    {
+      "id": "Pca9iIrDWZo",
+      "name": "ŞÜPHECİ | Türkçe Dublajlı Tek Parça Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/Pca9iIrDWZo/hqdefault.jpg",
+      "dur": "1:23:29"
+    },
+    {
+      "id": "5AYUfqnNRwo",
+      "name": "MANDRAKE (Kanlı Bitki) |Türkçe Dublajlı Tek Parça Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/5AYUfqnNRwo/hqdefault.jpg",
+      "dur": "1:27:21"
+    },
+    {
+      "id": "YdTl74lppKI",
+      "name": "ÖLÜLERİN AMACI (Goal Of The Dead) | Türkçe Dublajlı Tek Parça Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/YdTl74lppKI/hqdefault.jpg",
+      "dur": "1:59:21"
+    },
+    {
+      "id": "r49kqDuFrHM",
+      "name": "RAHİBENİN LANETİ (Curse Of The Nun) | Türkçe Dublajlı Tek Parça Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/r49kqDuFrHM/hqdefault.jpg",
+      "dur": "1:19:28"
+    },
+    {
+      "id": "siz__i4--Vg",
+      "name": "TUHAF YARATIK (Mothman) | Türkçe Dublajlı Tek Parça Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/siz__i4--Vg/hqdefault.jpg",
+      "dur": "1:26:36"
+    },
+    {
+      "id": "gVVHFbJ8ofI",
+      "name": "DERİN UYKU (Deep Sleep) | Türkçe Dublajlı Tek Parça Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/gVVHFbJ8ofI/hqdefault.jpg",
+      "dur": "1:26:04"
+    },
+    {
+      "id": "Sy6Fmw6uagw",
+      "name": "DERİ (Pelt) | Türkçe Dublajlı Tek Parça Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/Sy6Fmw6uagw/hqdefault.jpg",
+      "dur": "1:26:20"
+    },
+    {
+      "id": "iqCiU8nHZ4c",
+      "name": "KUTSAL TOPRAK (Fertile Ground) | Türkçe Dublajlı Tek Parça Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/iqCiU8nHZ4c/hqdefault.jpg",
+      "dur": "1:29:19"
+    },
+    {
+      "id": "KUwcAdrZx7c",
+      "name": "VAHŞİ KÖPEKLER (Junkyard Dog) | Türkçe Dublaj Korku Gerilim İzle",
+      "thumb": "https://i.ytimg.com/vi/KUwcAdrZx7c/hqdefault.jpg",
+      "dur": "1:31:43"
+    },
+    {
+      "id": "F7kDNm-N-vs",
+      "name": "CEHENNEM: ÖLÜM NEREDE YAŞIYOR? (Gehenna) | Türkçe Dublajlı Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/F7kDNm-N-vs/hqdefault.jpg",
+      "dur": "1:37:54"
+    },
+    {
+      "id": "AIJjtmVS0SY",
+      "name": "AJAN JADE BLACK (Agent Jade Black) | Türkçe Dublajlı Full Aksiyon Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/AIJjtmVS0SY/hqdefault.jpg",
+      "dur": "1:40:52"
+    },
+    {
+      "id": "cto9L1KsOl0",
+      "name": "Palyaço (Clown Motel) | Türkçe Dublajlı Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/cto9L1KsOl0/hqdefault.jpg",
+      "dur": "1:28:00"
+    },
+    {
+      "id": "tBM_BHjisdQ",
+      "name": "ALCATRAZ | Türkçe Dublajlı Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/tBM_BHjisdQ/hqdefault.jpg",
+      "dur": "1:22:32"
+    },
+    {
+      "id": "fOT61LAwMD0",
+      "name": "KORKULUK (Curse Of The Scarecrow) | Türkçe Dublajlı Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/fOT61LAwMD0/hqdefault.jpg",
+      "dur": "1:24:41"
+    },
+    {
+      "id": "q4iMdk2Xt9M",
+      "name": "KARABASAN (Wake Up) | Türkçe Dublajlı Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/q4iMdk2Xt9M/hqdefault.jpg",
+      "dur": "1:17:31"
+    },
+    {
+      "id": "RDCd4g6lF7s",
+      "name": "YEDİ (The Seven) | Türkçe Dublajlı Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/RDCd4g6lF7s/hqdefault.jpg",
+      "dur": "1:19:26"
+    },
+    {
+      "id": "2x-wzr9OAbw",
+      "name": "RUHLAR EVİ (The Spiritualist) | Türkçe Dublajlı Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/2x-wzr9OAbw/hqdefault.jpg",
+      "dur": "1:41:24"
+    },
+    {
+      "id": "dvBP7RBslxk",
+      "name": "SOSYOPAT (Evolution Of Devil) | Türkçe Dublajlı Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/dvBP7RBslxk/hqdefault.jpg",
+      "dur": "1:09:51"
+    },
+    {
+      "id": "YU5D3DMBEFU",
+      "name": "KÖTÜLÜK İÇİNDE (The Bad Nun) | Türkçe Dublajlı Full Korku Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/YU5D3DMBEFU/hqdefault.jpg",
+      "dur": "1:34:20"
+    },
+    {
+      "id": "2uBA62qrEPA",
+      "name": "SUİKASTÇİ (The Assasins Code) | Türkçe Dublajlı Tek Parça Full Aksiyon Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/2uBA62qrEPA/hqdefault.jpg",
+      "dur": "1:33:48"
+    },
+    {
+      "id": "EvgZMN7LxFE",
+      "name": "İNCE HAT (The Front Line) | Türkçe Dublajlı Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/EvgZMN7LxFE/hqdefault.jpg",
+      "dur": "1:29:59"
+    },
+    {
+      "id": "iI5qvJxqeuY",
+      "name": "FOUR JACKS | Türkçe Dublajlı Gerilim Filmi İzle",
+      "thumb": "https://i.ytimg.com/vi/iI5qvJxqeuY/hqdefault.jpg",
+      "dur": "1:19:10"
+    },
+    {
+      "id": "DQL_tbVA7Z4",
+      "name": "Efsunlu Ayin | Türk Korku Filmi",
+      "thumb": "https://i.ytimg.com/vi/DQL_tbVA7Z4/hqdefault.jpg",
+      "dur": "1:31:39"
+    },
+    {
+      "id": "tBf_QTpsx_s",
+      "name": "Enchantment - Rising From the Grave (Turkish Horror Movie)",
+      "thumb": "https://i.ytimg.com/vi/tBf_QTpsx_s/hqdefault.jpg",
+      "dur": "1:27:46"
+    },
+    {
+      "id": "9SQYEO6Xkbo",
+      "name": "Şeytan Kapısı - Korku Filmi (Türkçe Dublaj)",
+      "thumb": "https://i.ytimg.com/vi/9SQYEO6Xkbo/hqdefault.jpg",
+      "dur": "1:27:37"
+    },
+    {
+      "id": "xOBJPWCdXt0",
+      "name": "Efsunlu - Kabirden Gelen | Türk Korku Filmi",
+      "thumb": "https://i.ytimg.com/vi/xOBJPWCdXt0/hqdefault.jpg",
+      "dur": "1:24:16"
+    },
+    {
+      "id": "znX-BuS5dyU",
+      "name": "The Cleaning Lady (Temizlikçi) - Korku Filmi (Türkçe Dublaj)",
+      "thumb": "https://i.ytimg.com/vi/znX-BuS5dyU/hqdefault.jpg",
+      "dur": "1:27:11"
+    },
+    {
+      "id": "brRApgPHUmM",
+      "name": "Ejder Kapanı - Tek Parça Full HD",
+      "thumb": "https://i.ytimg.com/vi/brRApgPHUmM/hqdefault.jpg",
+      "dur": "1:40:17"
+    },
+    {
+      "id": "j-yr7jsWdyY",
+      "name": "Korkunun Sesi - Türkçe Dublajlı Korku Filmi",
+      "thumb": "https://i.ytimg.com/vi/j-yr7jsWdyY/hqdefault.jpg",
+      "dur": "1:26:03"
+    },
+    {
+      "id": "XDcGq6ekv9o",
+      "name": "The Cleaning Lady (Temizlikçi) - Korku Filmi (Türkçe Alt Yazılı)",
+      "thumb": "https://i.ytimg.com/vi/XDcGq6ekv9o/hqdefault.jpg",
+      "dur": "1:27:33"
+    },
+    {
+      "id": "GaHCusxEEmw",
+      "name": "Online Vahşet - Korku Filmi (Türkçe Dublaj)",
+      "thumb": "https://i.ytimg.com/vi/GaHCusxEEmw/hqdefault.jpg",
+      "dur": "1:18:07"
+    },
+    {
+      "id": "yFXyGAFZy7c",
+      "name": "Karaoğlan - Tek Parça Full HD",
+      "thumb": "https://i.ytimg.com/vi/yFXyGAFZy7c/hqdefault.jpg",
+      "dur": "1:48:06"
+    },
+    {
+      "id": "FkBe9tS0BlY",
+      "name": "Benim Dünyam (Uğur Yücel, Beren Saat) - Tek Parça Full HD",
+      "thumb": "https://i.ytimg.com/vi/FkBe9tS0BlY/hqdefault.jpg",
+      "dur": "1:40:21"
+    },
+    {
+      "id": "2MCPkwGNqeM",
+      "name": "Soğuk - Tek Parça Full HD",
+      "thumb": "https://i.ytimg.com/vi/2MCPkwGNqeM/hqdefault.jpg",
+      "dur": "1:34:56"
+    },
+    {
+      "id": "EuXkg_yrV2s",
+      "name": "Sir-Ayet | Tek Parça Full HD",
+      "thumb": "https://i.ytimg.com/vi/EuXkg_yrV2s/hqdefault.jpg",
+      "dur": "1:29:01"
+    },
+    {
+      "id": "On5tCtfPJes",
+      "name": "Hayatımın Kadınısın (Türkan Şoray - Uğur Yücel) - Tek Parça Full HD",
+      "thumb": "https://i.ytimg.com/vi/On5tCtfPJes/hqdefault.jpg",
+      "dur": "1:27:25"
+    },
+    {
+      "id": "gaHFbNwi9Ts",
+      "name": "Yaktın Beni | Yerli Komedi (Tek Parça) HD",
+      "thumb": "https://i.ytimg.com/vi/gaHFbNwi9Ts/hqdefault.jpg",
+      "dur": "1:36:20"
+    },
+    {
+      "id": "txM2gOHe4Xs",
+      "name": "Ümmü Sıbyan: Zifir - Yerli Korku Filmi",
+      "thumb": "https://i.ytimg.com/vi/txM2gOHe4Xs/hqdefault.jpg",
+      "dur": ""
+    },
+    {
+      "id": "XXBKKOc-NQg",
+      "name": "Şaşkın / YERLİ KOMEDİ FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/XXBKKOc-NQg/hqdefault.jpg",
+      "dur": "1:25:20"
+    },
+    {
+      "id": "f1k26HAQB8U",
+      "name": "Nergis Hanım | Tek Parça Full HD",
+      "thumb": "https://i.ytimg.com/vi/f1k26HAQB8U/hqdefault.jpg",
+      "dur": "1:29:15"
+    },
+    {
+      "id": "4g_TX7_bhWk",
+      "name": "Helak: Kayıp Köy | Yerli Korku Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/4g_TX7_bhWk/hqdefault.jpg",
+      "dur": "1:19:01"
+    },
+    {
+      "id": "r5jH8kjf1qg",
+      "name": "ÜÇ HARFLİLER MARİD HD YERLİ KORKU FİLMİ",
+      "thumb": "https://i.ytimg.com/vi/r5jH8kjf1qg/hqdefault.jpg",
+      "dur": "1:14:38"
+    },
+    {
+      "id": "lmOgcv58O3M",
+      "name": "ATEŞ GİBİ ❤️ TÜRK FİLMİ ❤️SERPİL ÇAKMAKLI & HAKAN URAL",
+      "thumb": "https://i.ytimg.com/vi/lmOgcv58O3M/hqdefault.jpg",
+      "dur": "1:03:38"
+    },
+    {
+      "id": "AYKfFrhh0cc",
+      "name": "666 Cin Musallatı | Yerli Korku Filmi | Full Film İzle",
+      "thumb": "https://i.ytimg.com/vi/AYKfFrhh0cc/hqdefault.jpg",
+      "dur": "1:10:24"
+    }
+  ]
+}
