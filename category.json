@@ -9,23 +9,23 @@
       "ct_url": "aksiyon_filmleri"
     },
     {
-      "ct_name": "BilimKurgu Filmleri",
+      "ct_name": "BilimKurgu",
       "ct_url": "bilimkurgu_filmleri"
     },
     {
-      "ct_name": "Yeşilçam Filmleri",
+      "ct_name": "Yeşilçam",
       "ct_url": "yesilcam_filmleri"
     },
     {
-      "ct_name": "Western Filmleri",
+      "ct_name": "Western",
       "ct_url": "western_filmleri"
     },
     {
-      "ct_name": "Dram Filmleri",
+      "ct_name": "Dram",
       "ct_url": "dram_filmleri"
     },
     {
-      "ct_name": "Duygusal Filmler",
+      "ct_name": "Duygusal",
       "ct_url": "duygusal_filmler"
     },
     {
@@ -33,11 +33,11 @@
       "ct_url": "eski_turk_filmleri"
     },
     {
-      "ct_name": "Gerilim Filmleri",
+      "ct_name": "Gerilim",
       "ct_url": "gerilim_filmleri"
     },
     {
-      "ct_name": "Gizem Filmleri",
+      "ct_name": "Gizem",
       "ct_url": "gizem_filmleri"
     },
     {
@@ -45,7 +45,7 @@
       "ct_url": "kemal_sunal_filmleri"
     },
     {
-      "ct_name": "Komedi Filmleri",
+      "ct_name": "Komedi",
       "ct_url": "komedi_filmleri"
     },
     {
@@ -53,19 +53,19 @@
       "ct_url": "cuneyt_arkin_filmleri"
     },
     {
-      "ct_name": "Korku Filmleri",
+      "ct_name": "Korku",
       "ct_url": "korku_filmleri"
     },
     {
-      "ct_name": "Kovboy Filmleri",
+      "ct_name": "Kovboy",
       "ct_url": "kovboy_filmleri"
     },
     {
-      "ct_name": "Romantik Filmleri",
+      "ct_name": "Romantik",
       "ct_url": "romantik_filmleri"
     },
     {
-      "ct_name": "Romantik Komedi Filmleri",
+      "ct_name": "Romantik Komedi",
       "ct_url": "romantik_komedi_filmleri"
     }
 
